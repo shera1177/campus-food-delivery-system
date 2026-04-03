@@ -4,7 +4,7 @@ A full-stack food delivery web application inspired by Zomato, built using Flask
 
 ## 🚀 Live Demo
 
-👉 Add your deployed Render link here
+👉 
 
 ---
 
